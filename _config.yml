@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Luca Inghilterra"
+title                    : "My page"
 title_separator          : "-"
 name                     : &name "Luca Inghilterra"
 description              : &description "Luca's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "england00/england00.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "@england00"
+  name             : "Luca Inghilterra"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Italy"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/england00"
+  github           : "england00"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://linkedin.com/in/luca-inghilterra"
+  linkedin         : "luca-inghilterra"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
