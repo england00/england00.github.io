@@ -63,7 +63,6 @@ Education
 **[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/artificial-intelligence-engineering)** – Modena, Italy  
 September 2022 – April 2025  
 Thesis: **MethWayOS: A new interpretable Deep Learning method for Gene Expression and Methylation based Cancer OS**
-
 Final grade: 110/110
 
 **Erasmus+ Exchange Program**  
@@ -74,7 +73,6 @@ January 2024 – June 2024
 **[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/computer-engineering-dm27004)** – Mantova, Italy  
 September 2019 – October 2022  
 Thesis: **Using a neural network and a depth-based algorithm for 6D pose estimation**
-
 Final grade: 110/110 with honors
 
 
