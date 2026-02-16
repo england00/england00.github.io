@@ -13,7 +13,7 @@ redirect_from:
 Work Experience
 ======
 
-### AI Engineer
+## AI Engineer
 [Adeptic Reply (Reply S.p.A.)](https://www.reply.com/adeptic-reply/en) – Milan (Hybrid), Italy  
 May 2025 – Present
 
@@ -32,14 +32,14 @@ Working within the IPCEI – Generative AI initiative, an EU-funded large-scale 
 - **Evaluation & Optimization:** Langfuse, GEPA, Unsloth
 - **Infrastructure:** AWS, Docker
 
-### Tutor
+## Tutor
 Freelance – Mantova, Italy  
 Oct 2021 – Set 2024 
 
 Provided private lessons in Mathematics, Physics, and Computer Science to high school students, developing personalized
 teaching strategies and helping students improve understanding and exam performance.
 
-### Software Developer – Research Grant 
+## Software Developer – Research Grant 
 [Hipert S.r.l. – DIEF UNIMORE](https://www.hipert.it/) – Mantova, Italy  
 April 2022 – September 2022
 
