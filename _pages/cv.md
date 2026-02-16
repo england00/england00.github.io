@@ -12,7 +12,6 @@ redirect_from:
 
 Work Experience
 ======
-
 ## AI Engineer
 **[Adeptic Reply (Reply S.p.A.)](https://www.reply.com/adeptic-reply/en)** – Milan (Hybrid), Italy  
 May 2025 – Present
