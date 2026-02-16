@@ -40,7 +40,7 @@ Provided private lessons in Mathematics, Physics, and Computer Science to high s
 teaching strategies and helping students improve understanding and exam performance.
 
 ## Software Developer – Research Grant 
-**[Hipert S.r.l. – DIEF UNIMORE](https://www.hipert.it/)** – Mantova, Italy
+**[Hipert S.r.l.](https://www.hipert.it/)** – Mantova, Italy
 April 2022 – September 2022
 
 Cifarelli Project: Applied research in computer vision for robotic pick-and-place with collaborative robots
@@ -77,25 +77,21 @@ Final grade: 110/110 with honors
 Projects
 ======
 
-**MethWayOS (Master Thesis)**  
+**[MethWayOS (Master Thesis)](https://github.com/england00/MethWayOS)**  
 Co-attention multimodal model for cancer survival prediction using RNA gene expression and DNA promoter methylation  
-Tech stack: Python, PyTorch, CUDA, Pandas, NumPy  
-Repo: https://github.com/england00/MethWayOS  
+**Tech stack**: Python, PyTorch, CUDA, Pandas, NumPy
 
-**Supervisor Node for Vehicle Control**  
+**[Supervisor Node for Vehicle Control](https://github.com/england00/SupervisorNode)**  
 ROS2 node with finite state machine for vehicle health monitoring  
-Tech stack: C++, ROS2  
-Repo: https://github.com/england00/SupervisorNode  
+**Tech stack**: C++, ROS2
 
-**PastaBot – Collaborative Pick-and-Place System**  
+**[PastaBot – Collaborative Pick-and-Place System](https://github.com/england00/SmartRoboticsPastaBot)**  
 Force sensing, motion planning, and perception pipeline  
-Tech stack: Python, ROS, Gazebo, MoveIt, OpenCV  
-Repo: https://github.com/england00/SmartRoboticsPastaBot  
+**Tech stack**: Python, ROS, Gazebo, MoveIt, OpenCV  
 
-**RESTful HTTP API for Robotic Telemetry**  
+**[RESTful HTTP API for Robotic Telemetry](https://github.com/england00/RESTfulHttpAPI)**  
 HTTP client exposing robotic system data stored in MySQL  
-Tech stack: Python, Flask, MySQL  
-Repo: https://github.com/england00/RESTfulHttpAPI  
+**Tech stack**: Python, Flask, MySQL  
 
 Other projects available at:  
 https://github.com/england00?tab=repositories  
