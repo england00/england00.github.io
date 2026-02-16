@@ -24,13 +24,13 @@ repository               : "england00/england00.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "@england00"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Italy"
+  employer         : "Adeptic Reply"
+  uri              : "https://www.reply.com/adeptic-reply/en"
+  email            : "luca.inghilterra@gmail.com"
 
   # Academic websites
   academia         : # URL
