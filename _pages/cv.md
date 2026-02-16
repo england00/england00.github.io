@@ -62,7 +62,8 @@ Education
 **M.Sc. in Computer Engineering – Artificial Intelligence Engineering Applications**  
 **[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/artificial-intelligence-engineering)** – Modena, Italy  
 September 2022 – April 2025  
-Final grade: 110/110  
+Thesis: **MethWayOS: A new interpretable Deep Learning method for Gene Expression and Methylation based Cancer OS**
+Final grade: 110/110
 
 **Erasmus+ Exchange Program**  
 **[Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/)** – Trondheim, Norway  
@@ -71,30 +72,34 @@ January 2024 – June 2024
 **B.Sc. in Computer Engineering – Industry 4.0**  
 **[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/computer-engineering-dm27004)** – Mantova, Italy  
 September 2019 – October 2022  
+Thesis: **Using a neural network and a depth-based algorithm for 6D pose estimation**
 Final grade: 110/110 with honors
 
 
 Projects
 ======
 
-**[MethWayOS (Master Thesis)](https://github.com/england00/MethWayOS)**  
-Co-attention multimodal model for cancer survival prediction using RNA gene expression and DNA promoter methylation  
+**[MethWayOS](https://github.com/england00/MethWayOS)**  
+A co-attention–based multimodal model for cancer survival prediction by integrating RNA gene expression and DNA promoter methylation data.
 **Tech stack**: Python, PyTorch, CUDA, Pandas, NumPy
 
 **[Supervisor Node for Vehicle Control](https://github.com/england00/SupervisorNode)**  
-ROS2 node with finite state machine for vehicle health monitoring  
+ROS2-based supervisor node using a finite state machine (FSM) to monitor vehicle health and publish system states as ROS topics.
 **Tech stack**: C++, ROS2
 
 **[PastaBot – Collaborative Pick-and-Place System](https://github.com/england00/SmartRoboticsPastaBot)**  
-Force sensing, motion planning, and perception pipeline  
+Example of an industrial pick-and-place workflow with a collaborative robot for sorting packages based on weight using a force sensor, integrating motion planning and perception.
 **Tech stack**: Python, ROS, Gazebo, MoveIt, OpenCV  
 
-**[RESTful HTTP API for Robotic Telemetry](https://github.com/england00/RESTfulHttpAPI)**  
-HTTP client exposing robotic system data stored in MySQL  
-**Tech stack**: Python, Flask, MySQL  
+**[MQTTtoDB - Telemetry Ingestion Pipeline](https://github.com/england00/MQTTtoDB)**  
+MQTT client for collecting telemetry and control data from distributed robotic systems and persisting it into a MySQL database.
+**Tech stack**: Python, MQTT, MySQL 
 
-Other projects available at:  
-https://github.com/england00?tab=repositories  
+**[RESTful HTTP API for Robotic Telemetry](https://github.com/england00/RESTfulHttpAPI)**  
+A RESTful API to expose telemetry and system data from robotic infrastructures stored in a local MySQL database.
+**Tech stack**: Python, Flask, MySQL
+
+[Other projects available here](https://github.com/england00?tab=repositories)
 
 
 Skills
