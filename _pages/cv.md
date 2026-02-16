@@ -14,7 +14,7 @@ Work Experience
 ======
 
 ## AI Engineer
-[Adeptic Reply (Reply S.p.A.)](https://www.reply.com/adeptic-reply/en) – Milan (Hybrid), Italy  
+**[Adeptic Reply (Reply S.p.A.)](https://www.reply.com/adeptic-reply/en)** – Milan (Hybrid), Italy  
 May 2025 – Present
 
 Working within the IPCEI – Generative AI initiative, an EU-funded large-scale program for advanced AI system development.
@@ -33,14 +33,14 @@ Working within the IPCEI – Generative AI initiative, an EU-funded large-scale 
 - **Infrastructure:** AWS, Docker
 
 ## Tutor
-Freelance – Mantova, Italy  
-Oct 2021 – Set 2024 
+**Freelance** – Mantova, Italy  
+October 2021 – September 2024 
 
 Provided private lessons in Mathematics, Physics, and Computer Science to high school students, developing personalized
 teaching strategies and helping students improve understanding and exam performance.
 
 ## Software Developer – Research Grant 
-[Hipert S.r.l. – DIEF UNIMORE](https://www.hipert.it/) – Mantova, Italy  
+**[Hipert S.r.l. – DIEF UNIMORE](https://www.hipert.it/)** – Mantova, Italy
 April 2022 – September 2022
 
 Cifarelli Project: Applied research in computer vision for robotic pick-and-place with collaborative robots
@@ -60,16 +60,16 @@ Education
 ======
 
 **M.Sc. in Computer Engineering – Artificial Intelligence Engineering Applications**  
-[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/artificial-intelligence-engineering) – Modena, Italy  
+**[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/artificial-intelligence-engineering)** – Modena, Italy  
 September 2022 – April 2025  
 Final grade: 110/110  
 
 **Erasmus+ Exchange Program**  
-[Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/) – Trondheim, Norway  
+**[Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/)** – Trondheim, Norway  
 January 2024 – June 2024  
 
 **B.Sc. in Computer Engineering – Industry 4.0**  
-[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/computer-engineering-dm27004) – Mantova, Italy  
+**[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/computer-engineering-dm27004)** – Mantova, Italy  
 September 2019 – October 2022  
 Final grade: 110/110 with honors
 
