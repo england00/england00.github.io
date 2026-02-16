@@ -14,6 +14,6 @@ My background in Computer Engineering and Artificial Intelligence has given me a
 
 I started my career in applied research, contributing to computer vision and robotics systems, and I currently work as an AI Engineer on Generative AI initiatives, focusing on scalable architectures, automated evaluation, and robust deployment of LLM-based systems.
 
-Outside of work, I’m drawn to activities that combine focus, discipline, and creativity — such as photography, outdoor sports, music, and reading — which naturally shape the way I think about problem-solving and continuous improvement.
+Outside of work, I’m drawn to activities that combine focus, discipline, and creativity, such as photography, outdoor sports, music, and reading, which naturally shape the way I think about problem-solving and continuous improvement.
 
 A detailed overview of my experience, education, and projects is available in my [résumé](https://england00.github.io/cv/).
