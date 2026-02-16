@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,13 @@ redirect_from:
 Work Experience
 ======
 
+**M.Sc. in Computer Engineering – Artificial Intelligence Engineering Applications**  
+[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/artificial-intelligence-engineering) – Modena, Italy  
+September 2022 – April 2025  
+Final grade: 110/110 
+
 **AI Engineer** 
+
 [Adeptic Reply (Reply S.p.A.)](https://www.reply.com/adeptic-reply/en) - Milan (Hybrid), Italy  
 May 2025 – Present  
 
