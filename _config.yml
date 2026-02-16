@@ -26,8 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Luca Inghilterra"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Engineering Master’s graduate, currently working at Reply on generative AI systems, with 
-                      a focus on LLM-based agentic pipelines, evaluation, and real-world constraints."
+  bio              : "Computer Engineering Master’s graduate, currently working at Reply on LLM-based agentic pipelines"
   location         : "Italy"
   employer         : "Adeptic Reply"
   uri              : # URL
