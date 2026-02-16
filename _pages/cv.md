@@ -75,6 +75,11 @@ September 2019 – October 2022
 Thesis: **Using a neural network and a depth-based algorithm for 6D pose estimation**  
 Final grade: 110/110 with honors
 
+**High School Diploma – Applied Sciences**  
+**[Liceo Scientifico Belfiore](https://www.liceobelfioremantova.edu.it/)** – Mantova, Italy  
+September 2014 – June 2019  
+Final grade: 94/100
+
 
 
 Projects
@@ -92,7 +97,7 @@ ROS2-based supervisor node using a finite state machine (FSM) to monitor vehicle
 Example of an industrial pick-and-place workflow with a collaborative robot for sorting packages based on weight using a force sensor, integrating motion planning and perception.  
 **Tech stack**: Python, ROS, Gazebo, MoveIt, OpenCV  
 
-**[MQTTtoDB - Telemetry Ingestion Pipeline](https://github.com/england00/MQTTtoDB)**  
+**[MQTTtoDB – Telemetry Ingestion Pipeline](https://github.com/england00/MQTTtoDB)**  
 MQTT client for collecting telemetry and control data from distributed robotic systems and persisting it into a MySQL database.  
 **Tech stack**: Python, MQTT, MySQL 
 
