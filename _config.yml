@@ -30,7 +30,7 @@ author:
                       a focus on LLM-based agentic pipelines, evaluation, and real-world constraints."
   location         : "Italy"
   employer         : "Adeptic Reply"
-  uri              : "https://www.reply.com/adeptic-reply/en"
+  uri              : # URL
   email            : "luca.inghilterra@gmail.com"
 
   # Academic websites
