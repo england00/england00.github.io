@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "My page"
 title_separator          : "-"
 name                     : &name "Luca Inghilterra"
-description              : &description "Luca's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Luca's portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://england00.github.io"   # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "england00/england00.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Luca Inghilterra"
+  name             : "Inghilterra"
   pronouns         : # example: "she/her"  
   bio              : "Computer Engineering Master’s graduate, currently working at Reply on LLM-based agentic pipelines"
   location         : "Italy"
