@@ -9,29 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-
-**M.Sc. in Computer Engineering – Artificial Intelligence Engineering Applications**  
-University of Modena and Reggio Emilia (UNIMORE) – Modena, Italy  
-September 2022 – April 2025  
-Final grade: 110/110  
-
-**Erasmus+ Exchange Program**  
-Norwegian University of Science and Technology (NTNU) – Trondheim, Norway  
-January 2024 – June 2024  
-
-**B.Sc. in Computer Engineering – Industry 4.0**  
-University of Modena and Reggio Emilia (UNIMORE) – Mantova, Italy  
-September 2019 – October 2022  
-Final grade: 110/110 cum Laude  
-
-
 Work Experience
 ======
 
-**AI Engineer – Adeptic Reply (Reply S.p.A.)**  
-Milan (Hybrid), Italy  
+**AI Engineer** 
+[Adeptic Reply (Reply S.p.A.)](https://www.reply.com/adeptic-reply/en) - Milan (Hybrid), Italy  
 May 2025 – Present  
 
 - Designed and implemented a Reinforcement Fine-Tuning (RFT) pipeline for LLM-as-a-Judge systems, including rubric engineering, reward modeling, and automated grader evaluation (~10% improvement over SFT baselines)  
@@ -39,13 +21,31 @@ May 2025 – Present
 - Evaluated training stacks for Continual Pre-Training and Post-Training workflows in collaboration with a leading Italian medical research center  
 - Engineered a modular Python benchmarking pipeline for foundation models on dataset-driven agent tasks  
 
-**Software Developer – Research Grant (Hipert S.r.l. – DIEF UNIMORE)**  
-Mantova, Italy  
+**Software Developer – Research Grant** 
+[Hipert S.r.l. – DIEF UNIMORE](https://www.hipert.it/) - Mantova, Italy  
 April 2022 – September 2022  
 
 - Selected and validated vision system architectures for robotic pick-and-place tasks  
 - Developed a 6D object pose estimation pipeline based on point cloud convergence from depth sensing  
 - Contributed to integration of computer vision, 3D perception, and robotic control in a collaborative robot (cobot) environment  
+
+
+Education
+======
+
+**M.Sc. in Computer Engineering – Artificial Intelligence Engineering Applications**  
+[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/artificial-intelligence-engineering) – Modena, Italy  
+September 2022 – April 2025  
+Final grade: 110/110  
+
+**Erasmus+ Exchange Program**  
+[Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/) – Trondheim, Norway  
+January 2024 – June 2024  
+
+**B.Sc. in Computer Engineering – Industry 4.0**  
+[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/computer-engineering-dm27004) – Mantova, Italy  
+September 2019 – October 2022  
+Final grade: 110/110 with honors
 
 
 Projects
