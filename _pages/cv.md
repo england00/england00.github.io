@@ -82,22 +82,27 @@ Projects
 
 **[MethWayOS](https://github.com/england00/MethWayOS)**  
 A co-attention–based multimodal model for cancer survival prediction by integrating RNA gene expression and DNA promoter methylation data.
+
 **Tech stack**: Python, PyTorch, CUDA, Pandas, NumPy
 
 **[Supervisor Node for Vehicle Control](https://github.com/england00/SupervisorNode)**  
 ROS2-based supervisor node using a finite state machine (FSM) to monitor vehicle health and publish system states as ROS topics.
+
 **Tech stack**: C++, ROS2
 
 **[PastaBot – Collaborative Pick-and-Place System](https://github.com/england00/SmartRoboticsPastaBot)**  
 Example of an industrial pick-and-place workflow with a collaborative robot for sorting packages based on weight using a force sensor, integrating motion planning and perception.
+
 **Tech stack**: Python, ROS, Gazebo, MoveIt, OpenCV  
 
 **[MQTTtoDB - Telemetry Ingestion Pipeline](https://github.com/england00/MQTTtoDB)**  
 MQTT client for collecting telemetry and control data from distributed robotic systems and persisting it into a MySQL database.
+
 **Tech stack**: Python, MQTT, MySQL 
 
 **[RESTful HTTP API for Robotic Telemetry](https://github.com/england00/RESTfulHttpAPI)**  
 A RESTful API to expose telemetry and system data from robotic infrastructures stored in a local MySQL database.
+ 
 **Tech stack**: Python, Flask, MySQL
 
 [Other projects available here](https://github.com/england00?tab=repositories)
