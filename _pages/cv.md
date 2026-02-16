@@ -12,11 +12,6 @@ redirect_from:
 Work Experience
 ======
 
-**M.Sc. in Computer Engineering – Artificial Intelligence Engineering Applications**  
-[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/artificial-intelligence-engineering) – Modena, Italy  
-September 2022 – April 2025  
-Final grade: 110/110 
-
 **AI Engineer**  
 [Adeptic Reply (Reply S.p.A.)](https://www.reply.com/adeptic-reply/en) – Milan (Hybrid), Italy  
 May 2025 – Present
@@ -24,11 +19,11 @@ May 2025 – Present
 - Designed and implemented a Reinforcement Fine-Tuning (RFT) pipeline for LLM-as-a-Judge systems, including rubric engineering, reward modeling, and automated grader evaluation (~10% improvement over SFT baselines)  
 - Built an agentic LLM optimization pipeline using genetic prompt optimization and adaptive in-context learning (10–15% performance gains)  
 - Evaluated training stacks for Continual Pre-Training and Post-Training workflows in collaboration with a leading Italian medical research center  
-- Engineered a modular Python benchmarking pipeline for foundation models on dataset-driven agent tasks  
+- Engineered a modular Python benchmarking pipeline for foundation models on dataset-driven agent tasks
 
-**Software Developer – Research Grant** 
-[Hipert S.r.l. – DIEF UNIMORE](https://www.hipert.it/) - Mantova, Italy  
-April 2022 – September 2022  
+**Software Developer – Research Grant**  
+[Hipert S.r.l. – DIEF UNIMORE](https://www.hipert.it/) – Mantova, Italy  
+April 2022 – September 2022
 
 - Selected and validated vision system architectures for robotic pick-and-place tasks  
 - Developed a 6D object pose estimation pipeline based on point cloud convergence from depth sensing  
