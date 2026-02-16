@@ -54,6 +54,8 @@ Cifarelli Project: Applied research in computer vision for robotic pick-and-plac
 - **Computer Vision & Robotics:** 6D Pose Estimation, RealSense D435i & L515, Iterative Closest Point (ICP)
 - **Infrastructure:** Linux, Bash, Docker
 
+ 
+======
 
 Education
 ======
@@ -74,6 +76,8 @@ September 2019 – October 2022
 Thesis: **Using a neural network and a depth-based algorithm for 6D pose estimation**
 Final grade: 110/110 with honors
 
+ 
+======
 
 Projects
 ======
@@ -100,6 +104,8 @@ A RESTful API to expose telemetry and system data from robotic infrastructures s
 
 [Other projects available here](https://github.com/england00?tab=repositories)
 
+ 
+======
 
 Skills
 ======
@@ -111,6 +117,8 @@ Skills
 **Infrastructure:** AWS (SageMaker), Docker, Linux, Bash  
 **Other:** Git, REST API, Scrum, Jira  
 
+ 
+======
 
 Languages
 ======
