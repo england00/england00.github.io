@@ -17,10 +17,9 @@ Work Experience
 September 2022 – April 2025  
 Final grade: 110/110 
 
-**AI Engineer** 
-
-[Adeptic Reply (Reply S.p.A.)](https://www.reply.com/adeptic-reply/en) - Milan (Hybrid), Italy  
-May 2025 – Present  
+**AI Engineer**  
+[Adeptic Reply (Reply S.p.A.)](https://www.reply.com/adeptic-reply/en) – Milan (Hybrid), Italy  
+May 2025 – Present
 
 - Designed and implemented a Reinforcement Fine-Tuning (RFT) pipeline for LLM-as-a-Judge systems, including rubric engineering, reward modeling, and automated grader evaluation (~10% improvement over SFT baselines)  
 - Built an agentic LLM optimization pipeline using genetic prompt optimization and adaptive in-context learning (10–15% performance gains)  
