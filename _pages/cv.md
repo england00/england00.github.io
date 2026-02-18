@@ -168,7 +168,7 @@ A RESTful API to expose telemetry and system data from robotic infrastructures s
 
 
 
-Techinal Skills
+Technical Skills
 ======
 
 **Programming Languages:** Python, C++, SQL  
