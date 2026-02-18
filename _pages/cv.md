@@ -44,6 +44,8 @@ April 2022 – September 2022
 
 Cifarelli Project: Applied research in computer vision for robotic pick-and-place with collaborative robots
 
+![Editing a Markdown file for a talk](/images/ShotPosition.png)
+
 **Key Responsibilities & Contributions:**
 - Selected and validated vision system architectures for robotic pick-and-place tasks, including depth sensing and image acquisition pipelines for downstream neural network processing
 - Created an alternative 6D object pose estimation pipeline based on point cloud convergence from depth measurements, improving robustness in scenarios with randomly arranged objects
@@ -113,11 +115,11 @@ Techinal Skills
 ======
 
 **Programming Languages:** Python, C++, SQL  
-**LLM & GenAI:** LLM evaluation pipelines, LLM-as-a-Judge systems, Supervised Fine-Tuning (SFT), Reinforcement Fine-Tuning (RFT), Prompt Optimization, OpenAI SDK, LiteLLM, LangGraph, DSPy, Langfuse, Retrieval-Augmented Generation (RAG), Hugging Face
-**ML & AI:** Deep Learning, Multimodal Learning, Model Evaluation, Reward modeling, Continual Pre-Training & Post-Training workflows 
+**LLM & GenAI:** LLM evaluation pipelines, LLM-as-a-Judge systems, Supervised Fine-Tuning (SFT), Reinforcement Fine-Tuning (RFT), Prompt Optimization, OpenAI SDK, LiteLLM, LangGraph, DSPy, Langfuse, Retrieval-Augmented Generation (RAG), Hugging Face  
+**ML & AI:** Deep Learning, Multimodal Learning, Model Evaluation, Reward modeling, Continual Pre-Training & Post-Training workflows  
 **Robotics & Perception:** Pick-and-Place Systems, Depth Sensing, 3D Computer Vision, 6D Pose Estimation  
-**Backend & APIs**: RESTful API, FastAPI, Flask, Pydantic
-**Cloud & Infrastructure:** Amazon Web Services, Docker, Linux, Bash, Git
+**Backend & APIs**: RESTful API, FastAPI, Flask, Pydantic  
+**Cloud & Infrastructure:** Amazon Web Services, Docker, Linux, Bash, Git  
 
 
 
