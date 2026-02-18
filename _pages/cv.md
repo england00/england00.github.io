@@ -44,7 +44,21 @@ April 2022 – September 2022
 
 Cifarelli Project: Applied research in computer vision for robotic pick-and-place with collaborative robots
 
-![Editing a Markdown file for a talk](/images/ShotPosition.png)
+<div style="text-align: center;">
+  <img 
+    src="/images/ShotPosition.png" 
+    alt="Editing a Markdown file for a talk"
+    width="500"
+    style="
+      border: 1px solid #ddd;
+      padding: 8px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      background-color: white;
+    "
+  >
+</div>
+
 
 **Key Responsibilities & Contributions:**
 - Selected and validated vision system architectures for robotic pick-and-place tasks, including depth sensing and image acquisition pipelines for downstream neural network processing
