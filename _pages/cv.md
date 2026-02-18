@@ -51,7 +51,7 @@ Cifarelli Project: Applied research in computer vision for robotic pick-and-plac
     loop 
     playsinline
     style="
-      max-width: 100%;
+      max-width: 75%;
       height: auto;
       border: 1px solid #ddd;
       padding: 8px;
