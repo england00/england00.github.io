@@ -24,7 +24,7 @@ repository               : "england00/england00.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Luca Inghilterra"
+  name             : "Inghilterra"
   pronouns         : # example: "she/her"  
   bio              : "Computer Engineering Master’s graduate, currently working at Reply on LLM-based agentic pipelines"
   location         : "Italy"
