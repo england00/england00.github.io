@@ -27,7 +27,7 @@ Working within the IPCEI – Generative AI initiative, an EU-funded large-scale 
 
 **Tools & Technologies:**
 - **Languages & Frameworks:** Python, FastAPI, UV
-- **LLM & GenAI:** OpenAI Platform & SDK, LangGraph, MCP
+- **LLM & GenAI:** OpenAI Platform & SDK, LangGraph, MCP, RAG, Hugging Face
 - **Evaluation & Optimization:** Langfuse, GEPA, Unsloth
 - **Infrastructure:** AWS, Docker
 
