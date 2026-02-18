@@ -46,7 +46,7 @@ Cifarelli Project: Applied research in computer vision for robotic pick-and-plac
 
 <div style="text-align: center;">
   <img 
-    src="/images/ShotPosition.png" 
+    src="/images/MethWayOS.png" 
     alt="Editing a Markdown file for a talk"
     width="500"
     style="
@@ -77,9 +77,24 @@ Education
 
 **M.Sc. in Computer Engineering – Artificial Intelligence Engineering Applications**  
 **[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/artificial-intelligence-engineering)** – Modena, Italy  
-September 2022 – April 2025  
-Thesis: **MethWayOS: A new interpretable Deep Learning method for Gene Expression and Methylation based Cancer OS**  
+September 2022 – April 2025
 Final grade: 110/110
+
+Thesis: **MethWayOS: A new interpretable Deep Learning method for Gene Expression and Methylation based Cancer OS**
+<div style="text-align: center;">
+  <img 
+    src="/images/MethWayOS.png" 
+    alt="Editing a Markdown file for a talk"
+    width="500"
+    style="
+      border: 1px solid #ddd;
+      padding: 8px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      background-color: white;
+    "
+  >
+</div>
 
 **Erasmus+ Exchange Program**  
 **[Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/)** – Trondheim, Norway  
@@ -87,9 +102,24 @@ January 2024 – June 2024
 
 **B.Sc. in Computer Engineering – Industry 4.0**  
 **[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/computer-engineering-dm27004)** – Mantova, Italy  
-September 2019 – October 2022  
-Thesis: **Using a neural network and a depth-based algorithm for 6D pose estimation**  
+September 2019 – October 2022
 Final grade: 110/110 with honors
+
+Thesis: **Using a neural network and a depth-based algorithm for 6D pose estimation**  
+<div style="text-align: center;">
+  <img 
+    src="/images/RANSAC+ICP.png" 
+    alt="Editing a Markdown file for a talk"
+    width="500"
+    style="
+      border: 1px solid #ddd;
+      padding: 8px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      background-color: white;
+    "
+  >
+</div>
 
 **High School Diploma – Applied Sciences**  
 **[Liceo Scientifico Belfiore](https://www.liceobelfioremantova.edu.it/)** – Mantova, Italy  
