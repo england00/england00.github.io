@@ -45,10 +45,12 @@ April 2022 – September 2022
 Cifarelli Project: Applied research in computer vision for robotic pick-and-place with collaborative robots
 
 <div style="text-align: center;">
-  <img 
-    src="/images/MethWayOS.png" 
-    alt="Editing a Markdown file for a talk"
+  <video 
     width="500"
+    autoplay 
+    muted 
+    loop 
+    playsinline
     style="
       border: 1px solid #ddd;
       padding: 8px;
@@ -57,8 +59,9 @@ Cifarelli Project: Applied research in computer vision for robotic pick-and-plac
       background-color: white;
     "
   >
+    <source src="/videos/video.mp4" type="video/mp4">
+  </video>
 </div>
-
 
 **Key Responsibilities & Contributions:**
 - Selected and validated vision system architectures for robotic pick-and-place tasks, including depth sensing and image acquisition pipelines for downstream neural network processing
@@ -79,12 +82,14 @@ Education
 **[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/artificial-intelligence-engineering)** – Modena, Italy  
 September 2022 – April 2025
 Final grade: 110/110
+Master’s program focused on advanced artificial intelligence and machine learning, with strong emphasis on deep learning, 
+multimodal learning, and data-driven system design. The program combined rigorous theoretical foundations with applied, 
+project-based work across multiple AI domains.
 
 Thesis: **MethWayOS: A new interpretable Deep Learning method for Gene Expression and Methylation based Cancer OS**
 <div style="text-align: center;">
   <img 
     src="/images/MethWayOS.png" 
-    alt="Editing a Markdown file for a talk"
     width="500"
     style="
       border: 1px solid #ddd;
@@ -99,17 +104,22 @@ Thesis: **MethWayOS: A new interpretable Deep Learning method for Gene Expressio
 **Erasmus+ Exchange Program**  
 **[Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/)** – Trondheim, Norway  
 January 2024 – June 2024  
+International exchange program focused on communication networks, robotics, and cooperative technologies. Completed 
+coursework in mobile networks, robot modeling and control, social media systems, and secure communication infrastructures 
+within a highly research-oriented environment.
 
 **B.Sc. in Computer Engineering – Industry 4.0**  
 **[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/computer-engineering-dm27004)** – Mantova, Italy  
 September 2019 – October 2022
 Final grade: 110/110 with honors
+Bachelor’s degree providing a strong foundation in computer engineering, including algorithms, software engineering, control 
+systems, and industrial automation. The Industry 4.0 track emphasized cyber-physical systems, embedded software, and data-driven 
+industrial applications.
 
 Thesis: **Using a neural network and a depth-based algorithm for 6D pose estimation**  
 <div style="text-align: center;">
   <img 
     src="/images/RANSAC+ICP.png" 
-    alt="Editing a Markdown file for a talk"
     width="500"
     style="
       border: 1px solid #ddd;
