@@ -46,12 +46,13 @@ Cifarelli Project: Applied research in computer vision for robotic pick-and-plac
 
 <div style="text-align: center;">
   <video 
-    width="500"
     autoplay 
     muted 
     loop 
     playsinline
     style="
+      max-width: 100%;
+      height: auto;
       border: 1px solid #ddd;
       padding: 8px;
       border-radius: 10px;
