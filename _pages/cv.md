@@ -80,18 +80,18 @@ Education
 
 **M.Sc. in Computer Engineering – Artificial Intelligence Engineering Applications**  
 **[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/artificial-intelligence-engineering)** – Modena, Italy  
-September 2022 – April 2025
-Final grade: 110/110
+September 2022 – April 2025  
 Master’s program focused on advanced artificial intelligence and machine learning, with strong emphasis on deep learning, 
 multimodal learning, and data-driven system design. The program combined rigorous theoretical foundations with applied, 
-project-based work across multiple AI domains.
+project-based work across multiple AI domains.  
+Final grade: 110/110  
 
-Thesis: **MethWayOS: A new interpretable Deep Learning method for Gene Expression and Methylation based Cancer OS**
 <div style="text-align: center;">
   <img 
-    src="/images/MethWayOS.png" 
-    width="500"
+    src="/images/MethWayOS.png"
     style="
+      max-width: 100%;
+      height: auto;
       border: 1px solid #ddd;
       padding: 8px;
       border-radius: 10px;
@@ -100,28 +100,29 @@ Thesis: **MethWayOS: A new interpretable Deep Learning method for Gene Expressio
     "
   >
 </div>
+Thesis: **MethWayOS: A new interpretable Deep Learning method for Gene Expression and Methylation based Cancer OS**  
 
 **Erasmus+ Exchange Program**  
 **[Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/)** – Trondheim, Norway  
 January 2024 – June 2024  
 International exchange program focused on communication networks, robotics, and cooperative technologies. Completed 
 coursework in mobile networks, robot modeling and control, social media systems, and secure communication infrastructures 
-within a highly research-oriented environment.
+within a highly research-oriented environment.  
 
 **B.Sc. in Computer Engineering – Industry 4.0**  
 **[University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en/education/degree-programmes/computer-engineering-dm27004)** – Mantova, Italy  
-September 2019 – October 2022
-Final grade: 110/110 with honors
+September 2019 – October 2022  
 Bachelor’s degree providing a strong foundation in computer engineering, including algorithms, software engineering, control 
 systems, and industrial automation. The Industry 4.0 track emphasized cyber-physical systems, embedded software, and data-driven 
-industrial applications.
+industrial applications.  
+Final grade: 110/110 with honors  
 
-Thesis: **Using a neural network and a depth-based algorithm for 6D pose estimation**  
 <div style="text-align: center;">
   <img 
-    src="/images/RANSAC+ICP.png" 
-    width="500"
+    src="/images/RANSAC+ICP.png"
     style="
+      max-width: 100%;
+      height: auto;
       border: 1px solid #ddd;
       padding: 8px;
       border-radius: 10px;
@@ -130,6 +131,7 @@ Thesis: **Using a neural network and a depth-based algorithm for 6D pose estimat
     "
   >
 </div>
+Thesis: **Using a neural network and a depth-based algorithm for 6D pose estimation**  
 
 **High School Diploma – Applied Sciences**  
 **[Liceo Scientifico Belfiore](https://www.liceobelfioremantova.edu.it/)** – Mantova, Italy  
