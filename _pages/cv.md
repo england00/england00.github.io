@@ -109,15 +109,15 @@ A RESTful API to expose telemetry and system data from robotic infrastructures s
 
 
 
-Skills
+Techinal Skills
 ======
 
-**Languages:** Python, C++, SQL  
-**LLM & GenAI:** OpenAI Platform & SDK, LangGraph, Langfuse, DSPy, LiteLLM  
-**ML & AI:** Machine Learning, Deep Learning, Reinforcement Fine-Tuning, Evaluation Pipelines  
-**Robotics & Vision:** 6D Pose Estimation, Pick and Place, 3D Computer Vision  
-**Infrastructure:** AWS (SageMaker), Docker, Linux, Bash  
-**Other:** Git, REST API, Scrum, Jira  
+**Programming Languages:** Python, C++, SQL  
+**LLM & GenAI:** LLM evaluation pipelines, LLM-as-a-Judge systems, Supervised Fine-Tuning (SFT), Reinforcement Fine-Tuning (RFT), Prompt Optimization, OpenAI SDK, LiteLLM, LangGraph, DSPy, Langfuse, Retrieval-Augmented Generation (RAG), Hugging Face
+**ML & AI:** Deep Learning, Multimodal Learning, Model Evaluation, Reward modeling, Continual Pre-Training & Post-Training workflows 
+**Robotics & Perception:** Pick-and-Place Systems, Depth Sensing, 3D Computer Vision, 6D Pose Estimation  
+**Backend & APIs**: RESTful API, FastAPI, Flask, Pydantic
+**Cloud & Infrastructure:** Amazon Web Services, Docker, Linux, Bash, Git
 
 
 
