@@ -122,7 +122,7 @@ Final grade: 110/110 with honors
   <img 
     src="/images/RANSAC+ICP.png"
     style="
-      max-width: 100%;
+      max-width: 60%;
       height: auto;
       border: 1px solid #ddd;
       padding: 8px;
