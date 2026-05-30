@@ -13,15 +13,11 @@ redirect_from:
 Technical Skills
 ======
 
-**Languages:** Python, SQL, C++ 
-
-**Cloud/Infrastructure:** AWS SageMaker, Docker, Kubernetes (k9s), Linux, Git, Bash, CI/CD (GitHub Actions) 
-
-**ML/LLM:** PyTorch, Transformers, CUDA (basic), LLM-as-a-judge, SFT/RFT, Prompt optimization, RAG, NLP, Hugging Face, Ollama, MCP, LangGraph, DSPy, Unsloth 
-
-**LLMOps/Experimentation:** Weights & Biases, Langfuse, LiteLLM, OpenAI SDK 
-
-**Backend/APIs**: FastAPI, Flask, Pydantic, REST APIs, MongoDB 
+- **Languages:** Python, SQL, C++ <br>
+- **Cloud/Infrastructure:** AWS SageMaker, Docker, Kubernetes (k9s), Linux, Git, Bash, CI/CD (GitHub Actions) <br>
+- **ML/LLM:** PyTorch, Transformers, CUDA (basic), LLM-as-a-judge, SFT/RFT, Prompt optimization, RAG, NLP, Hugging Face, Ollama, MCP, LangGraph, DSPy, Unsloth <br>
+- **LLMOps/Experimentation:** Weights & Biases, Langfuse, LiteLLM, OpenAI SDK <br>
+- **Backend/APIs**: FastAPI, Flask, Pydantic, REST APIs, MongoDB 
 
 
 Work Experience
