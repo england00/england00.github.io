@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Luca Inghilterra"
   pronouns         : # example: "she/her"  
-  bio              : "Currently employed at Reply. I focus on bringing LLM systems from experimentation to production, with experience in evaluation pipelines, agentic architectures, and prompt optimization."
-  location         : "Italy"
-  employer         : "Adeptic Reply"
+  bio              : "AI Engineer focused on shipping LLM systems to production, including post-training (SFT/RFT), robust evaluation pipelines, and agentic applications deployed on cloud–edge infrastructure. Currently working as a contract AI Data Trainer at Cohere supporting LLM evaluation and data quality. Authorized to work in Canada with an open work permit, no sponsorship required."
+  location         : "Canada"
+  employer         : "Contractor - Cohere Inc."
   uri              : # URL
   email            : "luca.inghilterra.work@gmail.com"
 
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "my_field_of_view"
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : "luca-inghilterra"
   mastodon         : # URL
