@@ -190,5 +190,6 @@ A RESTful API to expose telemetry and system data from robotic infrastructures s
 Languages
 ======
 
-Italian (Native)  
-English (Fluent)
+- **English** (Fluent) <br>
+- **Italian** (Native)  
+
