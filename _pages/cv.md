@@ -10,36 +10,62 @@ redirect_from:
 {% include base_path %}
 
 
+Technical Skills
+======
+
+**Languages:** Python, SQL, C++ 
+
+**Cloud/Infrastructure:** AWS SageMaker, Docker, Kubernetes (k9s), Linux, Git, Bash, CI/CD (GitHub Actions) 
+
+**ML/LLM:** PyTorch, Transformers, CUDA (basic), LLM-as-a-judge, SFT/RFT, Prompt optimization, RAG, NLP, Hugging Face, Ollama, MCP, LangGraph, DSPy, Unsloth 
+
+**LLMOps/Experimentation:** Weights & Biases, Langfuse, LiteLLM, OpenAI SDK 
+
+**Backend/APIs**: FastAPI, Flask, Pydantic, REST APIs, MongoDB 
+
+
 Work Experience
 ======
-## AI Engineer
-**[Adeptic Reply (Reply S.p.A.)](https://www.reply.com/adeptic-reply/en)** – Milan (Hybrid), Italy  
-May 2025 – Present
 
-Working within the IPCEI – Generative AI initiative, an EU-funded large-scale program for advanced AI system development.
+## AI Data Trainer – Contractor
+**[Cohere Inc.](https://cohere.com/)** – Toronto ON, Canada (Remote) – Part Time <br>
+June 2026 - Present
 
 **Key Responsibilities & Contributions:**
-- Designed and implemented a Reinforcement Fine-Tuning (RFT) pipeline for LLM-as-a-Judge systems with rubric engineering, reward modeling, and automated grader evaluation, improving judgment accuracy by ~10% over SFT baselines
-- Built an agentic LLM optimization pipeline using genetic prompt optimization and adaptive in-context learning, achieving 10–15% performance gains
-- Evaluated training stacks for Continual Pre-Training and Post-Training workflows in collaboration with a leading Italian medical research center
-- Engineered a modular Python pipeline for benchmarking foundation models on dataset-driven agent tasks
-- Drove technical reviews and defined optimization strategies for pre-existing agentic AI systems, enhancing scalability and evaluation robustness
+- Label, rank, audit, and correct LLM training/evaluation data, adhering to detailed guidelines to ensure high-quality and consistent annotations
+- Identify recurring issues and recommend workflow/guideline optimizations
+- Provide structured feedback to cross-functional stakeholders to clarify edge cases and reduce annotation ambiguity
+
+## AI Engineer
+**[Adeptic Reply (Reply S.p.A.)](https://www.reply.com/adeptic-reply/en)** – Milan, Italy (Hybrid) – Full Time <br>
+May 2025 – May 2026
+
+Worked within the IPCEI – Generative AI initiative, an EU-funded large-scale program for advanced AI system development.
+
+**Key Responsibilities & Contributions:**
+- Designed and deployed a Reinforcement Fine-Tuning (RFT) pipeline for LLM-as-a-judge systems, integrating rubric design and reward modelling (+10% vs. SFT baselines)
+- Built an agentic LLM optimization pipeline using genetic prompt search and adaptive in-context learning (+10–15% performance gains)
+- Evaluated continual pre-training and post-training workflows in collaboration with a medical research centre
+- Developed a large-scale, modular Python benchmarking pipeline for foundation models on dataset-driven agent tasks
+- Led technical reviews and drove optimizations to improve scalability and evaluation robustness across existing agentic systems
+- Built an MCP-based server to deploy applications on a private cloud–edge continuum infrastructure, improving deployment consistency and operability
+- Designed, implemented, and deployed agentic systems from scratch for cloud–edge continuum support tasks
 
 **Tools & Technologies:**
-- **Languages & Frameworks:** Python, FastAPI, UV
-- **LLM & GenAI:** OpenAI Platform & SDK, LangGraph, MCP, RAG, Hugging Face
-- **Evaluation & Optimization:** Langfuse, GEPA, Unsloth
+- **Languages & Frameworks:** Python, FastAPI, Pydantic, MongoDB
+- **LLM & GenAI:** OpenAI SDK, LangGraph, MCP, LiteLLM, DSPy, Unsloth
+- **Evaluation & Optimization:** Langfuse
 - **Infrastructure:** AWS, Docker
 
 ## Tutor
-**Freelance** – Mantova, Italy  
+**Freelance** – Mantova, Italy – Freelance <br>
 October 2021 – September 2024 
 
 Provided private lessons in Mathematics, Physics, and Computer Science to high school students, developing personalized
 teaching strategies and helping students improve understanding and exam performance.
 
 ## Software Developer – Research Grant 
-**[Hipert S.r.l.](https://www.hipert.it/)** – Mantova, Italy
+**[Hipert S.r.l.](https://www.hipert.it/)** – Mantova, Italy – Part Time <br>
 April 2022 – September 2022
 
 Cifarelli Project: Applied research in computer vision for robotic pick-and-place with collaborative robots
@@ -73,7 +99,6 @@ Cifarelli Project: Applied research in computer vision for robotic pick-and-plac
 - **Languages:** Python, C++
 - **Computer Vision & Robotics:** 6D Pose Estimation, RealSense D435i & L515, Iterative Closest Point (ICP)
 - **Infrastructure:** Linux, Bash, Docker
-
 
 
 Education
@@ -140,7 +165,6 @@ September 2014 – June 2019
 Final grade: 94/100
 
 
-
 Projects
 ======
 
@@ -165,19 +189,6 @@ A RESTful API to expose telemetry and system data from robotic infrastructures s
 **Tech stack**: Python, Flask, MySQL
 
 [Other projects available here](https://github.com/england00?tab=repositories)
-
-
-
-Technical Skills
-======
-
-**Programming Languages:** Python, C++, SQL  
-**LLM & GenAI:** LLM evaluation pipelines, LLM-as-a-Judge systems, Supervised Fine-Tuning (SFT), Reinforcement Fine-Tuning (RFT), Prompt Optimization, OpenAI SDK, LiteLLM, LangGraph, DSPy, Langfuse, Retrieval-Augmented Generation (RAG), Hugging Face  
-**ML & AI:** Deep Learning, Multimodal Learning, Model Evaluation, Reward modeling, Continual Pre-Training & Post-Training workflows  
-**Robotics & Perception:** Pick-and-Place Systems, Depth Sensing, 3D Computer Vision, 6D Pose Estimation  
-**Backend & APIs**: RESTful API, FastAPI, Flask, Pydantic  
-**Cloud & Infrastructure:** Amazon Web Services, Docker, Linux, Bash, Git  
-
 
 
 Languages
